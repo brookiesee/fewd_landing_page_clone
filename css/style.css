@@ -128,3 +128,49 @@ h3 {
 	font-weight: 100;
 }
 
+.buttons {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	padding: 16px 26px;
+	font-size: 18px;
+	text-shadow: none;
+	border-style: none;
+	border-radius: 4px;
+	line-height: 1.33;
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 35px;
+}
+
+button {
+	background-color: #EC5C13;
+	color: white;
+	padding: 16px 26px;
+	font-size: 18px;
+	text-shadow: none;
+	border-style: none;
+	border-radius: 4px;
+	line-height: 1.33;
+}
+
+.half {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+span {
+	padding-left: 26px;
+	padding-right: 0;
+}
+
+span p {
+	display: inline-block;
+}
+
+
+
+
+
+
+
