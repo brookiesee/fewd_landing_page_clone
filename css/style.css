@@ -108,6 +108,7 @@ body {
 	position: center;
 }
 
+.cases, 
 .introduction > .content {
 	color: white;
 	text-align: center;
@@ -168,8 +169,20 @@ span p {
 	display: inline-block;
 }
 
+.button-links {
+	text-decoration: none;
+	color: white;
+}
 
-
+.cases .devices {
+    width: 33.3333333%;
+    display: inline-block;
+    /* styles to assist with debugging */
+    border: 1px solid black;
+    box-sizing: border-box;
+    height: 4em;
+    color: black;
+}
 
 
 
