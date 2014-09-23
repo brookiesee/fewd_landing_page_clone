@@ -105,25 +105,27 @@ body {
 .introduction {
 	background-image: url("/Users/teresacathey/Desktop/Projects/Thinkful/startup-landing-page-clone/img/first-background.jpg");
 	background-size: cover;
-	background-position: 0 bottom;
-	height: 530px;
-	position: center;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	height: 735px;
+	overflow: auto;
 }
 
 .cases, 
-.introduction > .content {
+.introduction .content {
 	color: white;
 	text-align: center;
 	padding-top: 100px;
 }
 
-.introduction > .content h1 {
+.introduction h1 {
 	font-size: 50px;
+	margin-top: 280px;
 }
 
-.introduction > .content h3 {
+.introduction h3 {
 	font-size: 20px;
-	padding-top: 25px;
+	margin-top: 20px;
 }
 
 h1,
